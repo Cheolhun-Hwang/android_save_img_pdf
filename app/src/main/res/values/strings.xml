@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="genre_maleficent">장르 : 판타지, 모험, 드라마</string>
+    <string name="date_maleficent">2014.05.29. 개봉</string>
+    <string name="play_time_maleficent">상영시간 : 97분</string>
+    <string name="make_maleficent">미국</string>
+    <string name="age_maleficent">12세 관람가</string>
+    <string name="info_maleficent">감독 : 로버트 스트롬버그</string>
+    <string name="view_maleficent">관객수 : 1,396,899명</string>
+    <string name="short_story_maleficent">“16세가 되는 날, 날카로운 물레 바늘에 찔려 깊은 잠에 빠지리라!”
+가장 강력한 마법을 가진 숲의 수호자 말레피센트는 인간왕국과의 거대한 전쟁의 소용돌이 속에서 왕국을 다스리는 스테판 왕의 딸 ‘오로라 공주’의 세례식 날, 거부할 수 없는 치명적인 저주를 내리는데….</string>
+</resources>
